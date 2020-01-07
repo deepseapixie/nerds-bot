@@ -1,0 +1,11 @@
+{
+	"name": "Nerd's Bot",
+	"version": "1.0.0",
+	"description": "I am the bot designed by Nerdium for her fellow nerds",
+	"main": "bot.js",
+	"author": "nerdium-chan",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
